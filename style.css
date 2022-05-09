@@ -7,5 +7,7 @@
 
 .container {
     display: flex;
-    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: stretch;
+    height: 300px;
 }
