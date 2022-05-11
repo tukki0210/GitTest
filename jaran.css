@@ -1,0 +1,35 @@
+.content {
+    width: 960px;
+    display: flex;
+}
+
+.hotel_image {
+    width: 320px;
+}
+
+.main_image img{
+    width: 300px;
+}
+.sub_image {
+    display: flex;
+}
+
+.sub_image img {
+    width: 90px;
+}
+
+.hotel_caption {
+    width: 640px;
+}
+
+.hotel_plan {
+    display: flex;
+}
+
+.hotel_name {
+    width: 400px;
+}
+
+.hotel_price {
+    width: 200px;
+}
